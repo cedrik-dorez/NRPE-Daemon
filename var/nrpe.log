@@ -1,0 +1,42 @@
+[1633006478] Starting up daemon
+[1633006478] Server listening on 0.0.0.0 port 5666.
+[1633006478] Server listening on :: port 5666.
+[1633006478] Listening for connections on port 5666
+[1633006478] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633007215] Caught SIGTERM - shutting down...
+[1633007215] Daemon shutdown
+[1633007215] Starting up daemon
+[1633007215] Server listening on 0.0.0.0 port 5666.
+[1633007215] Server listening on :: port 5666.
+[1633007215] Listening for connections on port 5666
+[1633007215] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633008329] Host 192.168.122.252 is not allowed to talk to us!
+[1633350093] Starting up daemon
+[1633350093] Server listening on 0.0.0.0 port 5666.
+[1633350093] Server listening on :: port 5666.
+[1633350093] Listening for connections on port 5666
+[1633350093] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633359331] Caught SIGTERM - shutting down...
+[1633359331] Daemon shutdown
+[1633359342] Starting up daemon
+[1633359342] Server listening on 0.0.0.0 port 5666.
+[1633359342] Server listening on :: port 5666.
+[1633359342] Listening for connections on port 5666
+[1633359342] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633360808] Caught SIGTERM - shutting down...
+[1633360808] Daemon shutdown
+[1633360809] Starting up daemon
+[1633360809] Server listening on 0.0.0.0 port 5666.
+[1633360809] Server listening on :: port 5666.
+[1633360809] Listening for connections on port 5666
+[1633360809] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633435083] Starting up daemon
+[1633435083] Server listening on 0.0.0.0 port 5666.
+[1633435083] Server listening on :: port 5666.
+[1633435083] Listening for connections on port 5666
+[1633435083] Allowing connections from: 127.0.0.1,192.168.122.251
+[1633789983] Starting up daemon
+[1633789983] Server listening on 0.0.0.0 port 5666.
+[1633789983] Server listening on :: port 5666.
+[1633789983] Listening for connections on port 5666
+[1633789983] Allowing connections from: 127.0.0.1,192.168.122.251
